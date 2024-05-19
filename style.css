@@ -21,14 +21,12 @@ h1 {
     color: #0d9bb8;
     margin: 25px ;
     text-align: center;
-    /* padding-bottom: 30px;
-    padding-top: 35px; */
 }
 
 h2 {
     color: #0d9bb8;
-    padding-bottom: 115px;
     padding-top: 20px;
+    padding-bottom: 25px;
 }
  
 .box1, .box2, .box3 {
@@ -40,35 +38,6 @@ h2 {
     font-size: 30px;
     border-radius: 30px;
     text-align: center;
-}
-
-.box1 p {
-    color: #0d9bb8;
-    text-align: left;
-    font-size: 25px;
-    margin-left: 180px;
-    padding-bottom: 25px;
-}
-
-.box2 h2 {
-    padding-bottom: 50px;
-}
-
-.box3 h2 {
-    padding-bottom: 15px;
-}
-
-.box3 p{
-    color: #0d9bb8;
-    font-size: 25px;
-    margin: 25px 0;
-}
-
-.box2 p{
-    color: #0d9bb8;
-    font-size: 25px;
-    text-align: left;
-    margin: 25px 80px;
 }
 
 footer {
@@ -105,14 +74,6 @@ button:hover {
     background: #13a4c2;
 }
 
-img {
-    width: 300px;
-    height: 300px;
-    position: relative;
-    top: 80px;
-    margin: 0 85px;
-}
-
 h3 {
     position: relative;
     top: 70px;
@@ -120,4 +81,11 @@ h3 {
     color: #0d9bb8;
     /* right: 476px; */
     letter-spacing: 20px;
+}
+
+.img1 {
+  width: 400px;
+  height: 500px;
+  border-radius: 20px;
+  
 }
