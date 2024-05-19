@@ -27,6 +27,7 @@ h2 {
     color: #0d9bb8;
     padding-top: 20px;
     padding-bottom: 25px;
+    font-size: 50px;
 }
  
 .box1, .box2, .box3 {
@@ -74,18 +75,24 @@ button:hover {
     background: #13a4c2;
 }
 
-h3 {
-    position: relative;
-    top: 70px;
-    font-size: 40px;
-    color: #0d9bb8;
-    /* right: 476px; */
-    letter-spacing: 20px;
+.img1 {
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    margin-top: 70px;
+    
 }
 
-.img1 {
-  width: 400px;
-  height: 500px;
-  border-radius: 20px;
-  
+.box1 p {
+    padding-top: 20px;
+    color: #1bb6d1;
+    font-size: 35px;
+}
+
+.box2 p {
+    display: flex;
+    flex-wrap: wrap;
+    color: #1bb6d1;
+    font-size: 35px;
+    margin: 2px 40px;
 }
